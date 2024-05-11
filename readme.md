@@ -30,7 +30,7 @@
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
-  <pre><code>cd portfolio</code></pre>
+  <pre><code>cd Node-Express-Portfolio/portfolio</code></pre>
   <ol start="3">
     <li>Install dependencies:</li>
   </ol>

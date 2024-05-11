@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio README</title>
-</head>
-<body>
-
-  <h1>Portfolio</h1>
+<h1>Portfolio</h1>
 
   <p>This is a portfolio project created using Node.js, Express, Bootstrap, and EJS template.</p>
 
@@ -68,6 +59,3 @@
 
   <h2 id="license">License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-</body>
-</html>
